@@ -1,0 +1,9 @@
+Cite sources you conslulted for this MP here:
+For 2.1.5, generate the random hex cookie, I referenced a py library:
+https://www.python.org/dev/peps/pep-0506/
+
+For 2.2.3, I referenced how to bypass techniques and some API documentations:
+https://cheatsheetseries.owasp.org/cheatsheets/XSS_Filter_Evasion_Cheat_Sheet.html
+https://developer.mozilla.org/en-US/docs/Glossary/Base64
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/fromCharCode
+https://developer.mozilla.org/en-US/docs/Web/API/History_API
